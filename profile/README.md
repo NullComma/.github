@@ -1,4 +1,4 @@
-**Enigmatic Comma** is a creative studio focused on building tools, games, and open-source projects that empower developers and designers. This `.github` repository contains shared configurations, templates, and workflows used across our organization’s repositories.
+**Null Comma** is a creative hub of tools, games, and open-source projects. This `.github` repository contains shared configurations, templates, and workflows used across our organization’s repositories.
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 ## 🏢 About the Organization
-**Enigmatic Comma** crafts tools and experiences that blend creativity with technology. Our projects include:
-- **[EnigmaCore](https://github.com/EnigmaticComma/EnigmaCore)**: A Unity toolkit for game developers.
+**Null Comma** crafts tools and experiences that blend creativity with technology. Our projects include:
+- **[NCDK](https://github.com/NullComma/NCDK)**: A Unity toolkit for game developers.
 
-Learn more about us at [enigmaticcomma.com](https://enigmaticcomma.com).
+Learn more about us at [nullcomma.com](https://nullcomma.com).
 
 ---
 ## 🛠️ Support
 For questions or issues:  
-- 🐞 **Technical Support**: Open an [issue](https://github.com/EnigmaticComma/.github/issues).  
-- 📧 **General Inquiries**: Email [support@enigmaticcomma.com](mailto:support@enigmaticcomma.com).  
-- 💬 **Community Chat**: Join our [Discord](https://discord.gg/jppFtdu4fj).
+- 🐞 **Technical Support**: Open an [issue](https://github.com/nullcomma/.github/issues).  
+- 📧 **General Inquiries**: Email [support@enigmaticcomma.com](mailto:support@nullcomma.com).  
+- 💬 **Community Chat**: Join our [Discord](https://nullcomma.com/discord).
