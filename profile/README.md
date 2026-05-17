@@ -2,12 +2,6 @@
 
 ---
 
-## 📜 Table of Contents
-- [About the Organization](#-about-the-organization)
-- [Purpose of This Repository](#-purpose-of-this-repository)
-
----
-
 ## 🏢 About the Organization
 **Null Comma** crafts tools and experiences that blend creativity with technology. Our projects include:
 - **[NCDK](https://github.com/NullComma/NCDK)**: A Unity toolkit for game developers.
@@ -18,5 +12,5 @@ Learn more about us at [nullcomma.com](https://nullcomma.com).
 ## 🛠️ Support
 For questions or issues:  
 - 🐞 **Technical Support**: Open an [issue](https://github.com/nullcomma/.github/issues).  
-- 📧 **General Inquiries**: Email [support@enigmaticcomma.com](mailto:support@nullcomma.com).  
+- 📧 **General Inquiries**: Email [support@nullcomma.com](mailto:support@nullcomma.com).  
 - 💬 **Community Chat**: Join our [Discord](https://nullcomma.com/discord).
